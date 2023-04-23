@@ -11,6 +11,7 @@ module.exports = {
         peach: '#FCEDDA',
         burntOrange: '#EE4E34',
         darkGreen: '#1E352F',
+        dream: '#5E5878',
       },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',

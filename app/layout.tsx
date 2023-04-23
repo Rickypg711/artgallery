@@ -17,7 +17,7 @@ export default function RootLayout({
     
     <html lang="en">
      
-      <body className=' bg-stone-800'>{children}</body>
+      <body className=' bg-dream'>{children}</body>
     </html>
   )
 }
