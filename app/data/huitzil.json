@@ -1,14 +1,7 @@
 
 
 [
-  {
-    "src": "/images/huitzil.png",
-
-    "alt": "Huitzilopochtli",
-    "title": "Huitzilopochtli",
-    "date": "2023-04-23",
-    "description": "A hummingbird like the Mexican god Huitzilopochtli, with corn in the background"
-  },
+  
 
   {
     "src": "/images/bigsun.png",
@@ -17,6 +10,22 @@
     "title": "dreamPark",
     "date": "2023-04-24",
     "description": "park with multiple cars a bridge and weapons futuristic with a big sun"
+  },
+  {
+    "src": "/images/shiningtree.png",
+
+    "alt": "towards a shining tree",
+    "title": "towards a shining tree",
+    "date": "2023-03-12",
+    "description": "“walking in water full of snakes towards a shining tree”"
+  },
+  {
+    "src": "/images/huitzil.png",
+
+    "alt": "Huitzilopochtli",
+    "title": "Huitzilopochtli",
+    "date": "2023-02-23",
+    "description": "A hummingbird like the Mexican god Huitzilopochtli, with corn in the background"
   }
 
 ]

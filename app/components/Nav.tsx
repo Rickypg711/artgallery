@@ -31,7 +31,7 @@ export default function Nav() {
                 Home
               </Link>
               <Link
-                href="#testimonials"
+                href="/about"
                 className="hover:opacity-90 text-burntOrange dark:text-dreamBlue hover:text-dreamBlue dark:hover:text-burntOrange "
               >
                 About
@@ -72,7 +72,7 @@ export default function Nav() {
               Home
             </Link>
             <Link
-              href="#About"
+              href="/about"
               className="w-full py-6 text-center hover:opacity-90 text-dreamBlue hover:text-burntOrange dark:text-burntOrange dark:hover:text-dreamBlue"
             >
               About
