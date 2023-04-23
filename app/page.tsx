@@ -13,7 +13,7 @@ export default function Gallery() {
         <div className="grid grid-cols-1 gap-y-1 sm:grid-cols-2 gap-x-1 lg:grid-cols-3 xl:grid-cols-4 xl:gap-x-8 ">
           {/* image rendering */}
           {ImageData.map((image) => (
-            <Link href="/" className="group relative" key={image.title}>
+            <Link href={`${image.link}`} className="group relative" key={image.title} target="_blank">
               <div className="aspect-auto w-full overflow-hidden rounded-lg bg-sombra">
                 <Image
                   src={image.src}
