@@ -14,7 +14,7 @@ export default function Gallery() {
           {/* image rendering */}
           {ImageData.map((image) => (
             <Link href="/" className="group relative" key={image.title}>
-              <div className="aspect-auto w-full overflow-hidden rounded-lg bg-red-200">
+              <div className="aspect-auto w-full overflow-hidden rounded-lg bg-sombra">
                 <Image
                   src={image.src}
                   alt={image.title}
@@ -24,14 +24,14 @@ export default function Gallery() {
                   className="group-hover:scale-105 group-hover:opacity-75 object-cover transition-all"
                 />
                 <div className="group-hover-overlay">
-                  <p>{image.description}</p>
+                  <p className="">{image.description}</p>
                 </div>
               </div>
               <div className="flex justify-between mt-4">
-                <h3 className="text-sm text-amber-400 font-bold">
+                <h3 className="text-sm text-burntOrange dark:text-dreamBlue font-bold">
                   {image.title}
                 </h3>
-                <p className="text-lg font-medium text-burntOrange">
+                <p className="text-lg font-medium text-dreamBlue dark:text-burntOrange">
                   {image.date}
                 </p>
               </div>

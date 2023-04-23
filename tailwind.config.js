@@ -8,10 +8,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        peach: '#FCEDDA',
-        burntOrange: '#EE4E34',
-        darkGreen: '#1E352F',
-        dream: '#5E5878',
+        blackHole: '#130813',
+        burntOrange: '#F9A620',
+        dreamBlue: '#50A2A7',
+        luz: '#f4f9e9',
+        sombra: '#c8553d'
       },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
