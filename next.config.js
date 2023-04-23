@@ -3,6 +3,9 @@ const nextConfig = {
   experimental: {
     appDir: true,
   },
+  images: {
+    domains: ['labs.openai.com', 'bit.ly'],
+  },
 }
 
 module.exports = nextConfig
