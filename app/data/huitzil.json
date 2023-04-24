@@ -4,7 +4,7 @@
   
 
   {
-    "link" : "",
+    "link" : "https://www.instagram.com/p/CrbWWY9plpX/",
     "src": "/images/bigsun.png",
 
     "alt": "dreamlike, park",
@@ -23,7 +23,7 @@
   },
   {
     "src": "/images/huitzil.png",
-
+    "link": "https://www.instagram.com/p/CrbWvbJpKVV/",
     "alt": "Huitzilopochtli",
     "title": "Huitzilopochtli",
     "date": "2023-02-23",
@@ -31,7 +31,7 @@
   },
   {
     "src": "/images/latenightstars.png",
-
+    "link": "https://www.instagram.com/p/CrbXI4eJkIE/",
     "alt": "latenightstars",
     "title": "latenightstars",
     "date": "2023-04-24",

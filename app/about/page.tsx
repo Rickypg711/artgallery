@@ -1,6 +1,9 @@
+import Nav from "../components/Nav"
+
 export default function About() {
   return (
     <div>
+      <Nav/>
       <p>
         Welcome to my dream gallery! Here, I share images that I remember from
         my dreams. As someone who has always been fascinated by the power and
