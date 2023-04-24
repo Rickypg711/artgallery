@@ -9,7 +9,7 @@
 
     "alt": "dreamlike, park",
     "title": "dreamPark",
-    "date": "2023-04-24",
+    "date": "2023-04-23",
     "description": "park with multiple cars a bridge and weapons futuristic with a big sun"
   },
   {
@@ -28,6 +28,14 @@
     "title": "Huitzilopochtli",
     "date": "2023-02-23",
     "description": "A hummingbird like the Mexican god Huitzilopochtli, with corn in the background"
+  },
+  {
+    "src": "/images/latenightstars",
+
+    "alt": "latenightstars",
+    "title": "latenightstars",
+    "date": "2023-04-24",
+    "description": "late night work tree leaves falling headpresure stars"
   }
 
 ]
