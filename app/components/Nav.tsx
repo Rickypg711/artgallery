@@ -42,7 +42,7 @@ export default function Nav() {
                 About
               </Link>
               <Link
-                href="#contact"
+                href="/contact"
                 className="hover:opacity-90 text-burntOrange dark:text-dreamBlue hover:text-dreamBlue dark:hover:text-burntOrange"
               >
                 Contact
@@ -98,7 +98,7 @@ export default function Nav() {
               About
             </Link>
             <Link
-              href="#contact"
+              href="/contact"
               className="w-full py-6 text-center hover:opacity-90 text-dreamBlue hover:text-burntOrange dark:text-burntOrange dark:hover:text-dreamBlue"
             >
               Contact Us
