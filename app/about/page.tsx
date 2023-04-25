@@ -3,7 +3,9 @@ import Link from "next/link";
 
 export default function About() {
   return (
-    <div className="bg-luz dark:bg-blackHole">
+    // <div className="bg-luz dark:bg-blackHole"> 
+    <div className="bg-luz dark:bg-blackHole pt-10 sm:py-8">
+
       <Nav />
       <div className="flex flex-col items-center justify-center h-screen sm:py-8">
         <p className="text-center max-w-md text-dreamBlue dark:text-burntOrange text-lg">
