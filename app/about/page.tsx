@@ -1,4 +1,3 @@
-
 import Nav from "../components/Nav";
 import Link from "next/link";
 
@@ -6,7 +5,7 @@ export default function About() {
   return (
     <div className="bg-luz dark:bg-blackHole">
       <Nav />
-      <div className="flex flex-col items-center justify-center h-screen">
+      <div className="flex flex-col items-center justify-center h-screen sm:py-8">
         <p className="text-center max-w-md text-dreamBlue dark:text-burntOrange text-lg">
           <span className="dark:text-dreamBlue text-burntOrange">
             Do you ever wake up from a dream feeling like you&apos;ve just
